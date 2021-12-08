@@ -1,2 +1,3 @@
 # EmpleosTec
-NoSQL
+Base de datos NoSQL
+Node js Neo4j
